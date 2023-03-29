@@ -35,10 +35,10 @@ h6 {
 /*--------------------------------------------------------------
 # Back to top button
 --------------------------------------------------------------*/
-.back-to-top {
+.scroll-top{
   position: fixed;
   visibility: hidden;
-  opacity: 0;
+  opacity: 1;
   right: 15px;
   bottom: 15px;
   z-index: 996;
@@ -49,18 +49,18 @@ h6 {
   transition: all 0.4s;
 }
 
-.back-to-top i {
+.scroll-top i {
   font-size: 28px;
   color: #fff;
   line-height: 0;
 }
 
-.back-to-top:hover {
+.scroll-top:hover {
   background: #e1444d;
   color: #fff;
 }
 
-.back-to-top.active {
+.scroll-top .active {
   visibility: visible;
   opacity: 1;
 }
@@ -2038,6 +2038,8 @@ section {
   color: #fbfbfc;
   font-size: 14px;
 }
+
+
 
 /*--------------------------------------------------------------
 # Footer
