@@ -470,6 +470,11 @@ section {
   background-position: center;
   background-repeat: no-repeat;
 }
+#hero img{
+  background-size: cover;
+  background-position: right;
+  background-repeat: no-repeat;
+}
 
 #hero .carousel-item::before {
   content: "";
