@@ -12,7 +12,14 @@ body {
   --color-primary: #008374;
   --color-secondary: #f85a40;
 }
-
+.btn{
+  background-color: #008374;
+  color: #fff;
+}
+.btn:hover{
+  background-color: #e24d55;
+  color: #fff;
+}
 
 a {
   text-decoration: none;
@@ -23,6 +30,7 @@ a:hover {
   color: #e24d55;
   text-decoration: none;
 }
+
 
 h1,
 h2,
@@ -796,15 +804,10 @@ section {
 .services .icon-box i {
   float: left;
   color: var(--color-primary);
-  font-size: 40px;
+  font-size: 20px;
 }
 
-.services .icon-box h4 {
-  margin-left: 70px;
-  font-weight: 700;
-  margin-bottom: 15px;
-  font-size: 18px;
-}
+
 
 .services .icon-box h4 a {
   color: #556270;
