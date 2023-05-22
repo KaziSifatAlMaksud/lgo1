@@ -13,8 +13,8 @@
           <div class="carousel-container">
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown">Energy Audit</h2>
-              <p class="animate__animated animate__fadeInUp">we are doing energy audit to increase downtime</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+              <p class="animate__animated animate__fadeInUp">An energy audit is a process of evaluating the energy usage of a building, Plant or facility and identifying areas where energy efficiency improvements can be made. The objective of an energy audit is to identify areas of energy waste and recommend energy-efficient solutions to reduce energy consumption and costs.</p>
+              <a href="http://lgorithmbd.com/blog.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
             </div>
           </div>
         </div>
@@ -25,7 +25,7 @@
             <div class="container">
               <h2 class="animate__animated animate__fadeInDown"> Brac Project</h2>
               <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+              <a href="http://lgorithmbd.com/blog.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
             </div>
           </div>
         </div>
@@ -33,9 +33,10 @@
            <div class="carousel-item" style="background-image: url(assets/img/slide/slide-3.png);background-repeat: no-repeat;background-size: 100% 100%;">
           <div class="carousel-container">
             <div class="container">
-              <h2 class="animate__animated animate__fadeInDown">Lorem Ipsum Dolor</h2>
-              <p class="animate__animated animate__fadeInUp">Ut velit est quam dolor ad a aliquid qui aliquid. Sequi ea ut et est quaerat sequi nihil ut aliquam. Occaecati alias dolorem mollitia ut. Similique ea voluptatem. Esse doloremque accusamus repellendus deleniti vel. Minus et tempore modi architecto.</p>
-              <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
+              <h2 class="animate__animated animate__fadeInDown">Best High-precision Power Quality Analyzer Service</h2>
+              <p class="animate__animated animate__fadeInUp">The main purpose of the power system distribution is to ensure the proper operation of the loads. When an electrical power system fails to meet its purpose, it is time to analyze the problem, find the root cause.
+Power quality analysis helps in the detection of problems in the power network. It will also help to address issues about the reliable and stable operation before they have an impact on the performance of your electrical system. Trained electrical professionals are required to analyze the power quality of a system.</p>
+              <a href="http://lgorithmbd.com/blog.php" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
             </div>
           </div>
         </div>

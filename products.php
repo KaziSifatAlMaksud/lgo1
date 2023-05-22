@@ -17,47 +17,7 @@
     </div>
   </section><!-- End Breadcrumbs -->
 
-   <!-- ======= Team Section ======= -->
-   <section id="team" class="team ">
-    <div class="container">
-
-      <div class="row">
-
-        <div class="col-lg-2">
-          <div class="d-flex">
-            <div class="pic"><img src="assets/img/team/team-1.jpg" width="200px" class="img-fluid" alt=""></div>          
-          </div>
-        </div>
-
-        <div class="col-lg-2 mt-4 mt-lg-0">
-          <div class="d-flex ">
-            <div class="pic"><img src="assets/img/team/team-2.jpg" width="200px" class="img-fluid" alt=""></div>
-          </div>
-        </div>
-        <div class="col-lg-2 mt-4 mt-lg-0">
-          <div class=" d-flex ">
-            <div class="pic"><img src="assets/img/team/team-2.jpg" width="200px" class="img-fluid" alt=""></div>
-          </div>
-        </div>
-        <div class="col-lg-2 mt-4 mt-lg-0">
-          <div class="d-flex ">
-            <div class="pic"><img src="assets/img/team/team-2.jpg" width="200px" class="img-fluid" alt=""></div>
-          </div>
-        </div>
-        <div class="col-lg-2 mt-4 mt-lg-0">
-          <div class="d-flex ">
-            <div class="pic"><img src="assets/img/team/team-2.jpg" width="200px" class="img-fluid" alt=""></div>
-          </div>
-        </div>
-        <div class="col-lg-2 mt-4 mt-lg-0">
-          <div class="d-flex ">
-            <div class="pic"><img src="assets/img/team/team-2.jpg" width="200px" class="img-fluid" alt=""></div>
-          </div>
-        </div>   
-      </div>
-
-    </div>
-  </section><!-- End Team Section -->
+   
 
 
     <!-- ======= Pricing Section ======= -->
@@ -87,10 +47,11 @@
 
          <div class="pic"><img src="uploaded_img/<?= $fetch_products['image']; ?>" alt="" width="200" height="200"></div>
          
-         <a href="category.php?category=<?= $fetch_products['category']; ?>" class="cat"><?= $fetch_products['category']; ?></a>
+         
          <div class="name"><?= $fetch_products['name']; ?></div>
+         <p href="category.php?category=<?= $fetch_products['category']; ?>" class="cat"><?= $fetch_products['category']; ?></a>
        
-            <div class="price"><span>$</span><?= $fetch_products['price']; ?></div>
+ 
             <div class="btn-wrap">
               <a href="quick_view.php?pid=<?= $fetch_products['id']; ?>"  class="btn-buy" >Read More</a>
             </div>

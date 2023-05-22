@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
@@ -6,13 +5,30 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title> About - Lgorithm Services Limited</title>
+  <title>Welcome - Lgorithm Services Limited</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon">
-  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+  <link rel="apple-touch-icon" sizes="57x57" href="assets/img/favicon_lgo/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="assets/img/favicon_lgo/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="assets/img/favicon_lgo/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="assets/img/favicon_lgo/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="assets/img/favicon_lgo/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="assets/img/favicon_lgo/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="assets/img/favicon_lgo/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="assets/img/favicon_lgo/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/img/favicon_lgo/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="assets/img/favicon_lgo/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="assets/img/favicon_lgo/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon_lgo/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/img/favicon_lgo/favicon-16x16.png">
+<link rel="manifest" href="assets/img/favicon_lgo/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="assets/img/favicon_lgo/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+
+  
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -30,6 +46,7 @@
   <link href="assets/css/style.css" rel="stylesheet">
 
 </head>
+
 <body>
 
   
@@ -86,34 +103,34 @@
 <header id="header" class="header d-flex align-items-center">
   <div class="container-fluid container-xl d-flex align-items-center justify-content-between">
     <a href="index.php" class="logo d-flex align-items-center">
-      <img src = "assets/img/logo.png" alt="Logarithm logo" width="120"   />
+      <img src = "assets/img/logo.png" alt="Logarithm logo" width="120px" height="120px"/>
     </a>
     <nav id="navbar" class="navbar">
       <ul
         <li><a href="index.php">Home</a></li>
         <!-- <li><a href="about.php">About</a></li> -->
         <!-- <li><a href="#about">Industries</a></li>         -->
-        <li><a href="products.php">Products</a></li>
-        <li><a href="services.php">Services</a></li>
-        <!-- <li><a href="#">Calibration</a></li>  
-        <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+       
+       <!--  <li><a href="#">Calibration</a></li>  -->
+        <li><a href="products.php">Products</a>
+        
+          <!-- 
+          <li class="dropdown"><a href="products.php">Products</a>
           <ul>
-            <li><a href="#">Drop Down 1</a></li>
-            <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
-              <ul>
-                <li><a href="#">Deep Drop Down 1</a></li>
-                <li><a href="#">Deep Drop Down 2</a></li>
-                <li><a href="#">Deep Drop Down 3</a></li>
-                <li><a href="#">Deep Drop Down 4</a></li>
-                <li><a href="#">Deep Drop Down 5</a></li>
-              </ul>
-            </li>
-            <li><a href="#">Drop Down 2</a></li>
-            <li><a href="#">Drop Down 3</a></li>
-            <li><a href="#">Drop Down 4</a></li>
+            <li><a href="#">Insulated Tools</a></li>
+            <li><a href="#">Test Instument</a></li>
+            <li><a href="#">Solder Irons</a></li>
+            <li><a href="#">Crimping Tools</a></li>
+             <li><a href="#">Cable Cutter</a></li>
+            <li><a href="#">Tool Bags</a></li>
+            <li><a href="#">Fiber Optic</a></li>
+            <li><a href="#">Sets</a></li>
+             <li><a href="#">Positioning Strap</a></li>
           </ul>
-        </li> -->
+          -->
+        </li> 
         <li><a href="blog.php">Blog</a></li>
+         <li><a href="services.php">Services</a></li>
         <li><a href="contact.php">Contact</a></li>
       </ul>
     </nav><!-- .navbar -->

@@ -1,5 +1,3 @@
-
-
 <?php include 'components/header.php'; ?>
 
   <main id="main">
